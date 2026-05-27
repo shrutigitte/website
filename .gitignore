@@ -1,0 +1,8 @@
+node_modules
+dist
+.DS_Store
+backend/node_modules
+backend/responses.db
+backend/responses.db-shm
+backend/responses.db-wal
+.env
