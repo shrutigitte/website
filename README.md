@@ -73,8 +73,8 @@ crush-website/
 **File:** `src/utils/constants.js`
 
 ```js
-export const userName = "Aanchal";       // ← Person receiving the website
-export const creatorName = "Prateek";    // ← You (the creator)
+export const userName = "[Your Partner's name]";       // ← Person receiving the website
+export const creatorName = "[Your Name]";    // ← You (the creator)
 ```
 
 These variables are used throughout the site automatically.
